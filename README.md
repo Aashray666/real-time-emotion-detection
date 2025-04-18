@@ -129,8 +129,3 @@ This project is for academic use only and not intended for commercial deployment
 ---
 
 Feel free to fork, modify, and submit a pull request. Happy coding! 😄
-```
-
----
-
-Let me know if you'd like to include a project logo, GitHub badges, or add deployment instructions (e.g., Streamlit, web integration).
